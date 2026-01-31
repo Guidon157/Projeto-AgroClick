@@ -19,4 +19,6 @@ A paleta de cores utiliza variações de verde e verde claro, escolhidas para tr
 -
 Você pode navegar e testar as interações do projeto através do link abaixo:
 https://www.figma.com/proto/BmW8wW6035OtP7qFvFThgy/Sem-t%C3%ADtulo?node-id=0-1&t=meZQYiO4Rf10teDe-1
+
+https://www.figma.com/design/BmW8wW6035OtP7qFvFThgy/Sem-t%C3%ADtulo?node-id=0-1&m=dev&t=meZQYiO4Rf10teDe-1
 # Projeto-AgroClick
